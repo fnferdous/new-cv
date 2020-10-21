@@ -1,0 +1,114 @@
+
+.radial{
+	color: black;
+	font-size: 23px;
+	text-align: center;
+	margin-top: 0px;
+	
+}
+.ferdous{
+	letter-spacing: 12px;
+	font-size: 22px;
+	text-align: center;
+	
+
+}
+
+.mail{
+	text-align: center;
+
+}
+.address{
+	text-align: center;
+}
+.contact{
+	text-align: center;
+}
+.career{
+	color: white;
+	background: #6d6666;
+	margin-left: 90px;
+	text-align: center;
+	margin-right: 90px;
+
+}
+.paragraph{
+	margin-left: 90px;
+	margin-right: 90px;
+	font-size: 25px;
+}
+.education{
+	color: white;
+	background: #6d6666;
+	margin-left: 90px;
+	text-align: center;
+	margin-right: 90px;
+}
+.secondary{
+	margin-left: 90px;
+	margin-right: 90px;
+	font-size: 22px;
+}
+.name{
+	margin-left: 90px;
+	margin-right: 90px;
+	font-size: 18px;
+}
+.higher{
+	margin-left: 90px;
+	margin-right: 90px;
+	font-size: 22px;
+}
+.group{
+	margin-left: 90px;
+	margin-right: 90px;
+	font-size: 18px;
+}
+.job{
+	color: white;
+	background: #6d6666;
+	text-align: center;
+
+}
+.company{
+	font-size: 18px;
+}
+.photo{
+		
+	border: 2px solid black;
+	width: 130px;
+	height: 150px;
+	padding-left: 20px;
+	padding-top: 60px;
+	letter-spacing: 10px;
+	padding-right: 20px;
+	margin-left: 1050px;
+	margin-bottom: ;
+}
+.personal{
+	color: white;
+	background: #6d6666;
+	text-align: center;
+}
+.father{
+	font-size: 18px;
+}
+.certification{
+	color: white;
+	background: #6d6666;
+	text-align: center;
+}
+.last{
+	font-size: 25px;
+}
+.link1{
+	margin-left: 575px;
+}
+.image{
+	margin-left: 580px;
+}
+.register{
+	color: white;
+	background: #6d6666;
+	text-align: center;
+}
